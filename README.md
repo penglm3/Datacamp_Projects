@@ -7,3 +7,5 @@
 ### [Risk and Returns_ The Sharpe Ratio](https://github.com/penglm3/Datacamp_Projects/tree/master/Risk%20and%20Returns_%20The%20Sharpe%20Ratio)
 ### [TV, Halftime Shows, and the Big Game](https://github.com/penglm3/Datacamp_Projects/tree/master/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game)
 ### [Up and Down With the Kardashians](https://github.com/penglm3/Datacamp_Projects/tree/master/Up%20and%20Down%20With%20the%20Kardashians)
+## SQL
+### [Analyze International Debt Statistics](https://github.com/penglm3/Datacamp_Projects/tree/master/Analyze%20International%20Debt%20Statistics)
