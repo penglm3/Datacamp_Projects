@@ -13,6 +13,8 @@
 ### [A Visual History of Nobel Prize Winners](https://github.com/penglm3/Datacamp_Projects/tree/master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
 ### [Exploring the Bitcoin Cryptocurrency Market](https://github.com/penglm3/Datacamp_Projects/tree/master/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market)
 ### [Analyze Your Runkeeper Fitness Data](https://github.com/penglm3/Datacamp_Projects/tree/master/Analyze%20Your%20Runkeeper%20Fitness%20Data)
+### [Disney Movies and Box Office Success](https://github.com/penglm3/Datacamp_Projects/tree/master/Disney%20Movies%20and%20Box%20Office%20Success)
+A linear regression model which predicts the adjusted gross of Disney films from their genres(dummy variables), using sklearn's linear regressor. 
 ## SQL
 ### [Introduction to DataCamp Projects(SQL)](https://github.com/penglm3/Datacamp_Projects/tree/master/Introduction%20to%20DataCamp%20Projects(SQL))
 ### [Analyze International Debt Statistics](https://github.com/penglm3/Datacamp_Projects/tree/master/Analyze%20International%20Debt%20Statistics)
