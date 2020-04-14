@@ -11,10 +11,15 @@
 ### [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/penglm3/Datacamp_Projects/tree/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)
 ### [The Android App Market on Google Play](https://github.com/penglm3/Datacamp_Projects/tree/master/The%20Android%20App%20Market%20on%20Google%20Play)
 ### [A Visual History of Nobel Prize Winners](https://github.com/penglm3/Datacamp_Projects/tree/master/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
+Data visulization with seaborn.
 ### [Exploring the Bitcoin Cryptocurrency Market](https://github.com/penglm3/Datacamp_Projects/tree/master/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market)
 ### [Analyze Your Runkeeper Fitness Data](https://github.com/penglm3/Datacamp_Projects/tree/master/Analyze%20Your%20Runkeeper%20Fitness%20Data)
 ### [Disney Movies and Box Office Success](https://github.com/penglm3/Datacamp_Projects/tree/master/Disney%20Movies%20and%20Box%20Office%20Success)
 A linear regression model which predicts the adjusted gross of Disney films from their genres(dummy variables), using sklearn's linear regressor. 
+### [Naïve Bees_ Image Loading and Processing](https://github.com/penglm3/Datacamp_Projects/tree/master/Na%C3%AFve%20Bees_%20Image%20Loading%20and%20Processing)
+Image processing with the Pillow library. Transpoing, converting, changing contrast degree and transforming between images & numpy arrays are involved for further work.
+### [Recreating John Snow's Ghost Map](https://github.com/penglm3/Datacamp_Projects/tree/master/Recreating%20John%20Snow's%20Ghost%20Map)
+Interactive plots created with Folium and Boken, illustrating how malaria is related with unclean water.
 ## SQL
 ### [Introduction to DataCamp Projects(SQL)](https://github.com/penglm3/Datacamp_Projects/tree/master/Introduction%20to%20DataCamp%20Projects(SQL))
 ### [Analyze International Debt Statistics](https://github.com/penglm3/Datacamp_Projects/tree/master/Analyze%20International%20Debt%20Statistics)
