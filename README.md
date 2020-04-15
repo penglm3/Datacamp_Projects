@@ -15,11 +15,15 @@ Data visulization with seaborn.
 ### [Exploring the Bitcoin Cryptocurrency Market](https://github.com/penglm3/Datacamp_Projects/tree/master/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market)
 ### [Analyze Your Runkeeper Fitness Data](https://github.com/penglm3/Datacamp_Projects/tree/master/Analyze%20Your%20Runkeeper%20Fitness%20Data)
 ### [Disney Movies and Box Office Success](https://github.com/penglm3/Datacamp_Projects/tree/master/Disney%20Movies%20and%20Box%20Office%20Success)
-A linear regression model which predicts the adjusted gross of Disney films from their genres(dummy variables), using sklearn's linear regressor. 
+A linear regression model which predicts the adjusted gross of Disney films from their genres(dummy variables), using `sklearn.LinearRegression`. 
 ### [Naïve Bees_ Image Loading and Processing](https://github.com/penglm3/Datacamp_Projects/tree/master/Na%C3%AFve%20Bees_%20Image%20Loading%20and%20Processing)
-Image processing with the Pillow library. Transpoing, converting, changing contrast degree and transforming between images & numpy arrays are involved for further work.
+Image processing with the `Pillow` library. Transpoing, converting, changing contrast degree and transforming between images & numpy arrays are involved for further work.
 ### [Recreating John Snow's Ghost Map](https://github.com/penglm3/Datacamp_Projects/tree/master/Recreating%20John%20Snow's%20Ghost%20Map)
-Interactive plots created with Folium and Boken, illustrating how malaria is related with unclean water.
+Interactive plots created with `Folium` and `Bokeh`, illustrating how malaria is related with unclean water.
+### The Hottest Topics in Machine Learning
+Manipulate text data with `re`, analyze titles of NIPS(Neural Information Processing Systems) papers, draw word cloud using `wordcloud`, & do LDA analysis with `sklearn`.
+### [Mobile Games AB Testing with Cookie Cats](https://github.com/penglm3/Datacamp_Projects/tree/master/Mobile%20Games%20AB%20Testing%20with%20Cookie%20Cats)
+Analyze the result of an A/B test using bootstrap methods to evaluate the impact of a design of the game on its users.
 ## SQL
 ### [Introduction to DataCamp Projects(SQL)](https://github.com/penglm3/Datacamp_Projects/tree/master/Introduction%20to%20DataCamp%20Projects(SQL))
 ### [Analyze International Debt Statistics](https://github.com/penglm3/Datacamp_Projects/tree/master/Analyze%20International%20Debt%20Statistics)
