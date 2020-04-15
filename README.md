@@ -20,7 +20,7 @@ A linear regression model which predicts the adjusted gross of Disney films from
 Image processing with the `Pillow` library. Transpoing, converting, changing contrast degree and transforming between images & numpy arrays are involved for further work.
 ### [Recreating John Snow's Ghost Map](https://github.com/penglm3/Datacamp_Projects/tree/master/Recreating%20John%20Snow's%20Ghost%20Map)
 Interactive plots created with `Folium` and `Bokeh`, illustrating how malaria is related with unclean water.
-### The Hottest Topics in Machine Learning
+### [The Hottest Topics in Machine Learning](https://github.com/penglm3/Datacamp_Projects/tree/master/The%20Hottest%20Topics%20in%20Machine%20Learning)
 Manipulate text data with `re`, analyze titles of NIPS(Neural Information Processing Systems) papers, draw word cloud using `wordcloud`, & do LDA analysis with `sklearn`.
 ### [Mobile Games AB Testing with Cookie Cats](https://github.com/penglm3/Datacamp_Projects/tree/master/Mobile%20Games%20AB%20Testing%20with%20Cookie%20Cats)
 Analyze the result of an A/B test using bootstrap methods to evaluate the impact of a design of the game on its users.
