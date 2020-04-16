@@ -24,6 +24,10 @@ Interactive plots created with `Folium` and `Bokeh`, illustrating how malaria is
 Manipulate text data with `re`, analyze titles of NIPS(Neural Information Processing Systems) papers, draw word cloud using `wordcloud`, & do LDA analysis with `sklearn`.
 ### [Mobile Games AB Testing with Cookie Cats](https://github.com/penglm3/Datacamp_Projects/tree/master/Mobile%20Games%20AB%20Testing%20with%20Cookie%20Cats)
 Analyze the result of an A/B test using bootstrap methods to evaluate the impact of a design of the game on its users.
+### [Word Frequency in Moby Dick](https://github.com/penglm3/Datacamp_Projects/tree/master/Word%20Frequency%20in%20Moby%20Dick)
+scrape the novel from Project Gutenberg website using `requests`, extract words form this web data using `BeautifulSoup`, and analyze the distribution of the words using `nltk`.
+### [Classify Song Genres from Audio Data](https://github.com/penglm3/Datacamp_Projects/tree/master/Classify%20Song%20Genres%20from%20Audio%20Data)
+Use `PCA` method to select features, use `DesicionTree` model and `LogisticRegression`  model to predict features, and then do cross-validation test.
 ## SQL
 ### [Introduction to DataCamp Projects(SQL)](https://github.com/penglm3/Datacamp_Projects/tree/master/Introduction%20to%20DataCamp%20Projects(SQL))
 ### [Analyze International Debt Statistics](https://github.com/penglm3/Datacamp_Projects/tree/master/Analyze%20International%20Debt%20Statistics)
